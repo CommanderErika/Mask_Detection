@@ -2,6 +2,9 @@
 Due to the worldwide pandemic, Covid-19, this project was created with the aim of analyzing whether people are respecting the use of masks.
 This project has been done for IEEE-CS UFRN.
 
+## Results
+![Photo](1.jpg)
+
 ## Libraries Used
 * OpenCV Haar Cacade
 * TensorFlow/Keras Python
