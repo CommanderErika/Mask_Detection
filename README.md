@@ -5,6 +5,9 @@ This project has been done for IEEE-CS UFRN.
 ## Results
 ![Photo](1.jpeg)
 
+## Issues
+Increase the accuracy of face detection.
+
 ## Libraries Used
 * OpenCV Haar Cacade
 * TensorFlow/Keras Python
