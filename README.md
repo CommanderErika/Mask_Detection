@@ -3,7 +3,7 @@ Due to the worldwide pandemic, Covid-19, this project was created with the aim o
 This project has been done for IEEE-CS UFRN.
 
 ## Results
-![Photo](1.jpg)
+![Photo](1.jpeg)
 
 ## Libraries Used
 * OpenCV Haar Cacade
